@@ -1,0 +1,7 @@
+FirstDeadCellsMod
+这个是死亡细胞 B站直播互动的文件，下载放在mods里面即可
+然后是里面的id.txt，danmu.txt，gifts.txt
+这些需要放在你的死亡细胞游戏目录里面
+然后id里面的是需要你填写的B站开放平台的内容
+danmu和gifts里面的是你需要互动时发送的弹幕和礼物名字
+如果不需要的用很长的乱码取代即可
