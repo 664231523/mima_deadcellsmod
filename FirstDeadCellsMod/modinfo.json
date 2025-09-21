@@ -1,0 +1,10 @@
+{
+  "name": "FirstDeadCellsMod",
+  "version": "1.0.0",
+  "type": "mod",
+  "assemblies": [
+    "FirstDeadCellsMod.dll"
+  ],
+  "main": "FirstDeadCellsMod.FirstDeadCells",
+  "dependencies": []
+}

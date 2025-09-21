@@ -1,0 +1,4 @@
+AccessKeyId = "ibe2tAOdAF0PADb3NnpO6e89"
+AccessKeySecret = "pSbEKFTsc25LUrWNaqG7XpS3KDTuNe"
+AppId = "1681874559148"
+Code = "EWVGY6GM3H8G1"
